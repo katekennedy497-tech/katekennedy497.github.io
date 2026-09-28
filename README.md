@@ -4,7 +4,7 @@ About Me :)
 
 My name is Kate Kennedy, and I am a computer science major.
 
-<img width="768" height="1024" alt="DA18D69B-77D7-4D53-BC04-785CC17B6CF3_1_105_c" src="https://github.com/user-attachments/assets/b66869a6-3d18-4b5c-af39-9a5a0688b9b5" />
+<img width="256" height="341" alt="DA18D69B-77D7-4D53-BC04-785CC17B6CF3_1_105_c" src="https://github.com/user-attachments/assets/b66869a6-3d18-4b5c-af39-9a5a0688b9b5" />
 
 Interests
 -Computer Science
