@@ -12,5 +12,5 @@ My name is Kate Kennedy, and I am a computer science major.
 -Hanging out with friends
 
 ### Cool Sites
-([GitHub/](https://github.com/))\
-([Boise State HomePage] (https://www.boisestate.edu/))
+([GitHub](https://github.com/))\
+([Boise State HomePage](https://www.boisestate.edu/))
